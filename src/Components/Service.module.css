@@ -1,0 +1,27 @@
+.heading1 p {
+  display: flex;
+  position: relative;
+  top: 100px;
+  left: 120px;
+  font-size: 38px;
+  font-weight: Medium;
+  font-family: sans-serif;
+}
+p {
+  font-size: 18px;
+  position: relative;
+  top: 100px;
+  left: 120px;
+}
+.para {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+.para1 p {
+  flex: 1;
+  width: 20%;
+}
+.para2 p {
+  width: 100%;
+}
