@@ -1,5 +1,10 @@
 import React, { Fragment } from "react";
 import classes from "./Service.module.css";
+<<<<<<< HEAD
+=======
+import Downarraw from "../assests/downarrow.jpg";
+import Downarrow from "../assests/arrow.png";
+>>>>>>> 2a9c982100dcc6acdd1d2f5c93efb1f1c0764d88
 
 const Service = () => {
   return (
@@ -19,6 +24,7 @@ const Service = () => {
           <p>Lets's figure it out</p>
         </div>
       </div>
+<<<<<<< HEAD
       <div className={classes.container}>
         <div className={classes["left-paragraphs"]}>
           <h2>Web designs</h2>
@@ -54,6 +60,12 @@ const Service = () => {
             amet..", comes from a line in section 1.10.32.
           </p>
         </div>
+=======
+      <img className="downarrow" src={Downarrow} />
+      <div className={classes["right-paragraph"]}>
+        <p>What can I offer you?</p>
+        <p>Lets's figure it out</p>
+>>>>>>> 2a9c982100dcc6acdd1d2f5c93efb1f1c0764d88
       </div>
       <div className={classes.container}>
         <div className={classes["left-paragraphs"]}>

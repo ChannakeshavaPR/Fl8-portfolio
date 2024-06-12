@@ -26,6 +26,7 @@
   padding: 10px;
   font-size: 42px;
 }
+<<<<<<< HEAD
 
 .left-paragraphs h2,
 .right-paragraphs h2 {
@@ -43,3 +44,10 @@
   width: 500px;
   text-align: left;
 }
+=======
+img
+{
+  width: 10%;
+  align-items:center;
+}
+>>>>>>> 2a9c982100dcc6acdd1d2f5c93efb1f1c0764d88
